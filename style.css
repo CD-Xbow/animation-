@@ -126,7 +126,7 @@ svg {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("1518837695005-2083093ee35b.jpg");
+  background-image: url("surface.jpg");
   background-repeat: repeat-x;
 
   --duration: 8s;
@@ -174,7 +174,7 @@ svg {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("1568145675395-66a2eda0c6d7.jpg");
+  background-image: url("refraction.jpg");
   background-repeat: repeat;
 
   --duration: 10s;
